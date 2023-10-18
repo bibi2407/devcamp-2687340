@@ -1,0 +1,37 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "devcamp-ptech",
+    "dateExported": "2023-10-18T21:41:06.179Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "70f696d6-c98b-4737-aec9-e5d462deac02",
+            "colId": "627d8d52-8a34-451c-97f6-390f2e310c02",
+            "containerId": "",
+            "name": "todos los bootcamps",
+            "url": "http://127.0.0.1:5000/api/v1/devcamp/bootcamps/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-10-18T21:27:17.852Z",
+            "modified": "2023-10-18T21:28:15.674Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8bee9543-c5c0-4e9c-881e-b1862d74196a",
+            "colId": "627d8d52-8a34-451c-97f6-390f2e310c02",
+            "containerId": "",
+            "name": "traer bootcamp por id",
+            "url": "http://127.0.0.1:5000/api/v1/devcamp/bootcamps/7",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-10-18T21:39:28.765Z",
+            "modified": "2023-10-18T21:40:03.357Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
